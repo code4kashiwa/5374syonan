@@ -1,5 +1,6 @@
 label,sublabel,description,styles,bgcolor
-燃やさないゴミ,,,img/moyasanai02.svg,#FFB230
-資源,,,img/shigen02.svg,#77ae1f
-燃やすゴミ,,,img/moyasu02.svg,#FF7398
-容器包装プラスチック類,,,img/moyasu02.svg,#37B0AE
+燃やさないごみ,,,img/moyasanai02.svg,#FFB230
+資源ごみ,,,img/shigen02.svg,#77ae1f
+燃やすごみ,,,img/moyasu02.svg,#FF7398
+プラスチック系ごみ,,,img/moyasu02.svg,#37B0AE
+危険・有害物,,,img/moyasu02.svg,#000000
